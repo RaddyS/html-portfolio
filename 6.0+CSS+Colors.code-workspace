@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "6.0+CSS+Colors",
+			"path": "../../CSS/6.0+CSS+Colors"
+		},
+		{
+			"name": "5.3 CSS Selectors",
+			"path": "../../CSS/5.3+CSS+Selectors/5.3 CSS Selectors"
+		},
+		{
+			"name": "5.4 Color Vocab Project",
+			"path": "../../CSS/5.4+Color+Vocab+Project/5.4 Color Vocab Project"
+		},
+		{
+			"name": "5.1+Adding+CSS",
+			"path": "../../CSS/5.1+Adding+CSS"
+		},
+		{
+			"name": "6.1 Font Properties",
+			"path": "../../CSS/6.1+Font+Properties/6.1 Font Properties"
+		},
+		{
+			"path": "../../CSS/6.3+CSS+Box+Model"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
